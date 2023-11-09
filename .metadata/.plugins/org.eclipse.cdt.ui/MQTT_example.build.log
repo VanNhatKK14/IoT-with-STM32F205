@@ -1,0 +1,10 @@
+16:11:02 **** Incremental Build of configuration Debug for project MQTT_example ****
+make -j4 all 
+arm-none-eabi-size   MQTT_example.elf 
+   text	   data	    bss	    dec	    hex	filename
+  61192	    528	   3232	  64952	   fdb8	MQTT_example.elf
+Finished building: default.size.stdout
+ 
+
+16:11:03 Build Finished. 0 errors, 0 warnings. (took 1s.112ms)
+
